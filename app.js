@@ -33,5 +33,3 @@ function palindromeChecker(originalWord){
     return true;
 
 }
-
-console.log(palindromeChecker("Luc-as*sac_u."));
